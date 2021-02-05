@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<profile xmlns="http://csrc.nist.gov/ns/oscal/1.0" uuid="60c418e5-d7a3-4c58-bd6c-032bcf029ed8">
+<profile xmlns="http://csrc.nist.gov/ns/oscal/1.0" uuid="DC6ECB5A-A7FB-4412-89A9-CB69C122732B">
 	<metadata>
 		<title>FedRAMP Rev 4 Moderate Baseline</title>
 		<published>2021-02-05T00:00:00.000-04:00</published>

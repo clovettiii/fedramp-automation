@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<profile xmlns="http://csrc.nist.gov/ns/oscal/1.0" uuid="48d3387b-e554-4232-97bc-a8617cf238d9">
+<profile xmlns="http://csrc.nist.gov/ns/oscal/1.0" uuid="33D2BB80-4833-4DC8-8AE6-91EF0F3D249E">
    
    <metadata>
       <title>FedRAMP Rev 4 Tailored Low Impact Software as a Service (LI-SaaS) Baseline</title>
